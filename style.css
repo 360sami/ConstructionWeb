@@ -1,0 +1,171 @@
+
+
+
+.carousel-inner .carousel-item .carousel-caption
+{
+   color: #fff;
+  font-size: 66px;
+   bottom: 360px; 
+
+}
+
+body{
+  
+}
+
+
+.wrapper-body{
+  
+  padding-left: 50px;
+   width: 100vw;
+   justify-content: center;
+   align-content: center;
+   display: grid;
+   grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+   column-gap: 10px;
+   row-gap: 10px;
+   padding-bottom: 10px;
+   
+
+}
+.wrapper-body img{
+   width: 300px;
+   height: 300px;
+   object-fit: cover;
+   object-position: center;
+   overflow-y: hidden;
+}
+
+
+.card-body i{
+   font-size: 80px;
+   color: rgb(103, 178, 235);
+   align-items: center;
+}
+
+.custom{
+   display: block;
+   margin: auto;
+   padding-left: 120px;
+   padding-right:120px ;
+   
+}
+
+.card-titelb{
+   outline-color: #fff;
+   color: #333;
+   
+   
+}
+
+.card-titelb:hover{
+   color: #333;
+}
+.image{
+   width: 100%;
+   margin-top:100px;
+}
+.image-img{
+   width: 200px;
+   height: 200px;
+   display: block;
+   margin: auto;
+   border-radius: 50%;
+   border: 7px solid #0091ce;
+}
+
+
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+
+
+ .move{
+   position:relative;
+   top: 60px;
+   
+}
+footer{
+   background-color: #333;
+}
+
+
+.quote-btn{
+   position: relative;
+   left: 300px;
+   
+
+}
+.quote-row{
+   padding: 40px;
+  
+}
+.quote-titel h3{
+   font-size: 25px;
+   width: auto;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn{
+   letter-spacing: 2px;
+   border: solid;
+}
+.footer-col{
+   width: 25%;
+   padding-top: 100px;
+}
+.footer-col p{
+   color: dimgray;
+}
+.footer-col h4{
+   text-align:left;
+	font-size: 15px;
+	color:dimgray ;
+	text-transform: capitalize;
+	margin-bottom: 10px;
+	font-weight: 500;
+	
+}
+
+.footer-col ul li:not(:last-child){
+	margin-bottom: 8px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 300;
+	color: #bbbbbb;
+	display: block;
+	transition: all 0.3s ease;
+}
+
+
+
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+	transition: all 0.5s ease;
+}
+
+
+
+
+
+
+
+
+
